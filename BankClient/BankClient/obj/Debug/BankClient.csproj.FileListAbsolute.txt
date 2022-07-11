@@ -1,0 +1,42 @@
+E:\repos\BankClient\BankClient\bin\Debug\BankClient.exe.config
+E:\repos\BankClient\BankClient\bin\Debug\BankClient.exe
+E:\repos\BankClient\BankClient\bin\Debug\BankClient.pdb
+E:\repos\BankClient\BankClient\obj\Debug\BankClient.csproj.AssemblyReference.cache
+E:\repos\BankClient\BankClient\obj\Debug\BankClient.csproj.SuggestedBindingRedirects.cache
+E:\repos\BankClient\BankClient\obj\Debug\BankClient.main.resources
+E:\repos\BankClient\BankClient\obj\Debug\BankClient.Properties.Resources.resources
+E:\repos\BankClient\BankClient\obj\Debug\BankClient.csproj.GenerateResource.cache
+E:\repos\BankClient\BankClient\obj\Debug\BankClient.csproj.CoreCompileInputs.cache
+E:\repos\BankClient\BankClient\obj\Debug\BankClient.exe
+E:\repos\BankClient\BankClient\obj\Debug\BankClient.pdb
+E:\repos\BankClient\BankClient\obj\Debug\BankClient.translation.resources
+E:\repos\BankClient\BankClient\obj\Debug\BankClient.show.resources
+C:\Users\mikk1\OneDrive\Рабочий стол\BankClient\BankClient\bin\Debug\BankClient.exe.config
+C:\Users\mikk1\OneDrive\Рабочий стол\BankClient\BankClient\bin\Debug\BankClient.exe
+C:\Users\mikk1\OneDrive\Рабочий стол\BankClient\BankClient\bin\Debug\BankClient.pdb
+C:\Users\mikk1\OneDrive\Рабочий стол\BankClient\BankClient\obj\Debug\BankClient.csproj.AssemblyReference.cache
+C:\Users\mikk1\OneDrive\Рабочий стол\BankClient\BankClient\obj\Debug\BankClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\mikk1\OneDrive\Рабочий стол\BankClient\BankClient\obj\Debug\BankClient.main.resources
+C:\Users\mikk1\OneDrive\Рабочий стол\BankClient\BankClient\obj\Debug\BankClient.Properties.Resources.resources
+C:\Users\mikk1\OneDrive\Рабочий стол\BankClient\BankClient\obj\Debug\BankClient.show.resources
+C:\Users\mikk1\OneDrive\Рабочий стол\BankClient\BankClient\obj\Debug\BankClient.translation.resources
+C:\Users\mikk1\OneDrive\Рабочий стол\BankClient\BankClient\obj\Debug\BankClient.csproj.GenerateResource.cache
+C:\Users\mikk1\OneDrive\Рабочий стол\BankClient\BankClient\obj\Debug\BankClient.csproj.CoreCompileInputs.cache
+C:\Users\mikk1\OneDrive\Рабочий стол\BankClient\BankClient\obj\Debug\BankClient.exe
+C:\Users\mikk1\OneDrive\Рабочий стол\BankClient\BankClient\obj\Debug\BankClient.pdb
+C:\Users\User\Downloads\Bank (1)\BankClient\BankClient\bin\Debug\BankClient.exe.config
+C:\Users\User\Downloads\Bank (1)\BankClient\BankClient\bin\Debug\BankClient.exe
+C:\Users\User\Downloads\Bank (1)\BankClient\BankClient\bin\Debug\BankClient.pdb
+C:\Users\User\Downloads\Bank (1)\BankClient\BankClient\obj\Debug\BankClient.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Bank (1)\BankClient\BankClient\obj\Debug\BankClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\Bank (1)\BankClient\BankClient\obj\Debug\BankClient.main.resources
+C:\Users\User\Downloads\Bank (1)\BankClient\BankClient\obj\Debug\BankClient.Properties.Resources.resources
+C:\Users\User\Downloads\Bank (1)\BankClient\BankClient\obj\Debug\BankClient.show.resources
+C:\Users\User\Downloads\Bank (1)\BankClient\BankClient\obj\Debug\BankClient.translation.resources
+C:\Users\User\Downloads\Bank (1)\BankClient\BankClient\obj\Debug\BankClient.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Bank (1)\BankClient\BankClient\obj\Debug\BankClient.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Bank (1)\BankClient\BankClient\obj\Debug\BankClient.exe
+C:\Users\User\Downloads\Bank (1)\BankClient\BankClient\obj\Debug\BankClient.pdb
+C:\Users\User\Downloads\Bank (1)\BankClient\BankClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Downloads\Bank (1)\BankClient\BankClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Downloads\Bank (1)\BankClient\BankClient\obj\Debug\BankClient.csproj.CopyComplete
